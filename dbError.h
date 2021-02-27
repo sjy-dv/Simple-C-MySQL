@@ -1,0 +1,7 @@
+#define MB_RES unsigned int
+#define MB_OK 0x00000000
+#define DB_INT_ERROR 0xff000000
+#define DB_CONNECTION_ERROR 0xff000001
+#define DB_QUERY_EXECUTION_ERROR 0xff000002
+#define DB_FETCH_FAIL 0xff000003
+#define DB_RESULT_NULL 0xff000004
